@@ -1,0 +1,6 @@
+/target
+primary*
+secondary*
+
+litesync/*
+!litesync/.keep
